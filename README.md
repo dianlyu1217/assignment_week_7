@@ -1,1 +1,3 @@
-# assignment_week_7
+# techin509b-tictactoe
+Let's start OOM tictactoe game!!!
+
